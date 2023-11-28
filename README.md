@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saineylearns
-- 👀 I’m interested in developing my skillset in texts
+- 👀 I’m interested in developing my skillset in full stack development
 - 🌱 I’m currently learning on the Odin Project
 - 📫 How to reach me: saineyt1@icloud.com
 
